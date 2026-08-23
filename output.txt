@@ -1,0 +1,226 @@
+GROUPDNA DATASET LOADED
+-----------------------------------------------------------------
+Messages parsed : 3174
+Participants    : 6
+Participants    : Rahul, Priya, Karan, Neha, Aman, Vikas
+System messages : 4
+Media messages  : 32
+Deleted messages: 15
+
+=================================================================
+GROUP OVERVIEW
+=================================================================
+Group           : Hostel Bois 4ever
+Period          : 01 April 2024 to 30 May 2024
+Number of days  : 60
+Total messages  : 3174
+Participants    : 6
+System messages : 4
+Media shared    : 32
+Deleted         : 15
+
+MESSAGES PER PERSON
+-----------------------------------------------------------------
+Rahul      █████████████████████████  953 ( 30.0%)
+Priya      ██████████████████         718 ( 22.6%)
+Neha       ████████████████           635 ( 20.0%)
+Aman       ████████████               490 ( 15.4%)
+Karan      █████████                  354 ( 11.2%)
+Vikas      █                           24 (  0.8%)
+
+=================================================================
+MOST ACTIVE PERIODS
+=================================================================
+Busiest day  : 04 May 2024 (76 messages)
+Busiest hour : 18:00 - 19:00 (248 messages)
+
+=================================================================
+NUMPY ACTIVITY HEATMAP
+=================================================================
+Rows = participants | Columns = hours
+        00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Rahul     ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ █ ▒ ▒ █ █ ▒ █ █ ▒ █ █ █
+Priya     . . . . . . ░ ▒ █ █ █ █ █ █ █ ▒ ▒ █ █ █ █ ▒ ▒ ░
+Karan     . . . . . . . ░ ▒ ▒ █ ▒ █ █ █ █ █ █ █ █ █ ▒ ░ ░
+Neha      . . . . . ▒ ░ ░ █ █ █ ▒ █ █ ▒ ░ █ █ █ █ █ ▒ ▒ ▒
+Aman      █ █ █ █ █ . . . . . . . . . ░ ░ ░ ░ ░ ░ ░ ░ . █
+Vikas     . . . . . . . ▒ █ ▒ ▒ . █ █ . ▒ ▒ █ █ █ ▒ ▒ ▒ █
+
+ROW TOTALS
+-----------------------------------------------------------------
+Rahul     : 953 messages
+Priya     : 718 messages
+Karan     : 354 messages
+Neha      : 635 messages
+Aman      : 490 messages
+Vikas     : 24 messages
+
+=================================================================
+TOP 10 WORDS
+=================================================================
+guys            █████████████████████████ 318
+bhai            ████████████              160
+scene           ███████████               145
+please          ███████████               141
+yaar            ██████████                139
+kya             ██████████                133
+everything      █████████                 121
+now             █████████                 121
+came            █████████                 116
+sleep           ████████                  112
+
+TOP 5 WORDS PER PERSON
+-----------------------------------------------------------------
+Rahul     : [('bhai', 159), ('scene', 144), ('kya', 133), ('yaar', 105), ('ja', 101)]
+Priya     : [('please', 141), ('aman', 93), ('okay', 80), ('take', 72), ('guys', 65)]
+Karan     : [('guys', 120), ('came', 116), ('three', 97), ('used', 95), ('everything', 92)]
+Neha      : [('guys', 101), ('cant', 58), ('ok', 52), ('wait', 48), ('way', 48)]
+Aman      : [('sleep', 71), ("i'm", 56), ('wonder', 43), ('night', 41), ("can't", 34)]
+Vikas     : [('haha', 4), ('busy', 3), ('haan', 3), ('sorry', 3), ('tha', 3)]
+
+=================================================================
+RESPONSE SPEED
+=================================================================
+Rahul     : 19.3 minutes average
+Priya     : 20.2 minutes average
+Karan     : 21.7 minutes average
+Neha      : 19.3 minutes average
+Aman      : 23.2 minutes average
+Vikas     : 24.6 minutes average
+
+Fastest replier : Rahul (19.3 min)
+Slowest replier : Vikas (24.6 min)
+
+=================================================================
+LONGEST SILENT STREAKS
+=================================================================
+Vikas     : 11 days (23 Apr - 03 May)
+Rahul     : 0 days — active every day
+Priya     : 0 days — active every day
+Karan     : 0 days — active every day
+Neha      : 0 days — active every day
+Aman      : 0 days — active every day
+
+=================================================================
+PERSONALITY ARCHETYPES
+=================================================================
+Rahul      → THE SPAMMER            (average burst = 4.5 messages)
+Priya      → THE GROUP MOM          (caring keyword score = 621)
+Neha       → THE DRAMA QUEEN        (62.2% dramatic messages)
+Aman       → THE NIGHT OWL          (79.8% of messages between 23:00-04:59)
+Karan      → THE STORYTELLER        (average = 57.0 words/message)
+Vikas      → THE GHOST              (11-day longest silent streak)
+
+ARCHETYPE SCORE CARDS
+-----------------------------------------------------------------
+Rahul     : [('THE SPAMMER', 100.0), ('THE COMEDIAN', 18.9), ('THE GROUP MOM', 0.0)]
+Priya     : [('THE GROUP MOM', 100.0), ('THE QUESTION MASTER', 100.0), ('THE SPAMMER', 0.0)]
+Karan     : [('THE STORYTELLER', 100.0), ('THE GROUP MOM', 4.7), ('THE SPAMMER', 0.0)]
+Neha      : [('THE DRAMA QUEEN', 100.0), ('THE GROUP MOM', 3.7), ('THE SPAMMER', 0.0)]
+Aman      : [('THE NIGHT OWL', 100.0), ('THE GROUP MOM', 15.9), ('THE SPAMMER', 0.0)]
+Vikas     : [('THE GHOST', 100.0), ('THE COMEDIAN', 100.0), ('THE SPAMMER', 0.0)]
+
+=================================================================
+BONUS ARCHETYPE
+=================================================================
+THE CHAI COMMANDER → Karan (17.2% keyword rate)
+
+===========================================================================
+GROUPDNA REPORT — "HOSTEL BOIS 4EVER"
+===========================================================================
+60 days • 3,174 messages • 6 participants
+===========================================================================
+
+GROUP OVERVIEW
+---------------------------------------------------------------------------
+Period        : 01 April 2024 to 30 May 2024
+Total messages: 3,174
+Participants  : 6
+System msgs   : 4
+Media         : 32
+Deleted       : 15
+
+ACTIVITY HIGHLIGHTS
+---------------------------------------------------------------------------
+Busiest day   : 04 May 2024 (76 messages)
+Busiest hour  : 18:00 - 19:00 (248 messages)
+
+MESSAGES PER PERSON
+---------------------------------------------------------------------------
+Rahul      ████████████████████  953 ( 30.0%)
+Priya      ███████████████       718 ( 22.6%)
+Neha       █████████████         635 ( 20.0%)
+Aman       ██████████            490 ( 15.4%)
+Karan      ███████               354 ( 11.2%)
+Vikas      █                      24 (  0.8%)
+
+ACTIVITY HEATMAP
+---------------------------------------------------------------------------
+        00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Rahul     ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ █ ▒ ▒ █ █ ▒ █ █ ▒ █ █ █
+Priya     . . . . . . ░ ▒ █ █ █ █ █ █ █ ▒ ▒ █ █ █ █ ▒ ▒ ░
+Karan     . . . . . . . ░ ▒ ▒ █ ▒ █ █ █ █ █ █ █ █ █ ▒ ░ ░
+Neha      . . . . . ▒ ░ ░ █ █ █ ▒ █ █ ▒ ░ █ █ █ █ █ ▒ ▒ ▒
+Aman      █ █ █ █ █ . . . . . . . . . ░ ░ ░ ░ ░ ░ ░ ░ . █
+Vikas     . . . . . . . ▒ █ ▒ ▒ . █ █ . ▒ ▒ █ █ █ ▒ ▒ ▒ █
+
+TOP WORDS
+---------------------------------------------------------------------------
+guys            ████████████████████ 318
+bhai            ██████████           160
+scene           █████████            145
+please          ████████             141
+yaar            ████████             139
+kya             ████████             133
+everything      ███████              121
+now             ███████              121
+came            ███████              116
+sleep           ███████              112
+
+RESPONSE PATTERNS
+---------------------------------------------------------------------------
+Fastest replier : Rahul (19.3 min)
+Slowest replier : Vikas (24.6 min)
+
+LONGEST SILENT STREAKS
+---------------------------------------------------------------------------
+Vikas     : 11 days (23 Apr - 03 May)
+Rahul     : 0 days
+Priya     : 0 days
+Karan     : 0 days
+Neha      : 0 days
+Aman      : 0 days
+
+PERSONALITY ARCHETYPES
+---------------------------------------------------------------------------
+Rahul      → THE SPAMMER
+Priya      → THE GROUP MOM
+Neha       → THE DRAMA QUEEN
+Aman       → THE NIGHT OWL
+Karan      → THE STORYTELLER
+Vikas      → THE GHOST
+
+DATA QUALITY
+---------------------------------------------------------------------------
+Input lines       : 3,178
+Parsed messages   : 3,174
+System messages   : 4
+Media messages    : 32
+Deleted messages  : 15
+
+===========================================================================
+GROUPDNA — PYTHON + NUMPY
+===========================================================================
+
+=================================================================
+ALL GROUPDNA VALIDATION CHECKS PASSED
+=================================================================
+Dataset parsing      : PASS
+Participant counts   : PASS
+Message counts       : PASS
+NumPy heatmap        : PASS
+Top-word analysis    : PASS
+Response analysis    : PASS
+Silent streaks       : PASS
+Archetype detection  : PASS
+=================================================================
